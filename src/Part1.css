@@ -1,0 +1,30 @@
+.Part1{
+  background-color: #48486e;
+   padding:40px; 
+}
+.Part1-title{
+    color:white;
+    text-align: center;
+}
+.Part1-title h2{
+    margin: 0px;
+} 
+.part1-select-table .btn{
+ background-color: #48486e;
+   font-family: Roboto Thin;
+    font-weight: 40;
+    margin-top:0px;
+    color: white;
+    border:1px solid #34b3d3;
+    margin-bottom: 5px;
+    width:200px;
+    border-radius: 2px;
+}
+.part1-select-table .btn-danger{
+    background-color: red;
+}
+.Part1-title h1{
+ font-family: Roboto Thin;
+ font-weight: 40;
+ margin-top:0px;
+}

@@ -1,0 +1,48 @@
+.Part2{
+  background-color: white;
+   padding:40px; 
+}
+.Part2-title{
+    color:#48486e;
+    text-align: center;
+}
+.Part2-title h1,h6{
+    margin: 0px;
+} 
+.Part2-step {
+    color:#48486e;
+     
+     padding: 0;
+     padding-bottom:30px; 
+    padding-top: 30px;
+    /*margin-left:20%;*/
+    text-align: center;
+}
+.Part2 .underline {
+color:#ff0000;
+text-decoration: underline;
+}
+.Part2 .text{
+     color:#48486e;
+    
+}
+.part2-image{
+    margin-top:10px;
+    height: 100px;
+}
+.part2-text{
+font-weight: 30;
+ margin-bottom: 10px;
+}
+
+.part2-btn .btn-book{
+background-color: red;
+ margin-right: 5px;
+ margin-bottom: 5px;
+}
+.part2-btn .btn-contact{
+background-color: white;
+border-color:#34b3d3;
+margin-left: 5px;
+margin-bottom: 5px;
+}
