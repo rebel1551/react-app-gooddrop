@@ -10,16 +10,20 @@ render() {
              
              <div className="col-md-2" id="footer-desc">
                  <h6><b>Company</b></h6>
-                 <a href="#">About Us</a>
-                 <a href="#">Customer Reviews</a>
-                 <a href="#">Booking Terms</a>
-                  <a href="#">Terms of Use</a>
-                   <a href="#">Privacy Policy</a>
+                 <ul>
+                 <li><a href="#">About Us</a> </li>
+                  <li><a href="#">Customer Reviews</a></li>
+                  <li><a href="#">Booking Terms</a></li>
+                   <li><a href="#">Terms of Use</a></li>
+                 <li> <a href="#">Privacy Policy</a></li>
+                 </ul>
              </div>
              <div className="col-md-2" id="footer-desc">
                  <h6><b>Support</b></h6>
-                   <a href="#">How To</a><br></br>
-                   <a href="#">FAQs</a>
+                 <ul>
+                   <li><a href="#">How To</a></li>
+                 <li>  <a href="#">FAQs</a></li>
+                 </ul>
                  
              </div>
              <div className="col-md-2" id="footer-desc">
