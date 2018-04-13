@@ -27,9 +27,11 @@ render() {
                  
              </div>
              <div className="col-md-2" id="footer-desc">
+			     <ul>
                  <h6><b>Need Help</b></h6>
-                 <a href="#">support@gooddrop.com</a>
-                  <a href="#">Call at 9155844753</a>
+                <li> <a href="#">support@gooddrop.com</a></li>
+                  <li><a href="#">Call at 9155844753</a></li>
+				  </ul>
              </div>
              <div className="col-md-6" id="social-logo">
                  <center>
