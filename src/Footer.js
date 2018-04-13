@@ -9,8 +9,9 @@ render() {
            <div className="row">
              
              <div className="col-md-2" id="footer-desc">
+	          <ul>
                  <h6><b>Company</b></h6>
-                 <ul>
+                
                  <li><a href="#">About Us</a> </li>
                   <li><a href="#">Customer Reviews</a></li>
                   <li><a href="#">Booking Terms</a></li>
@@ -19,8 +20,9 @@ render() {
                  </ul>
              </div>
              <div className="col-md-2" id="footer-desc">
+	         <ul>
                  <h6><b>Support</b></h6>
-                 <ul>
+                
                    <li><a href="#">How To</a></li>
                  <li>  <a href="#">FAQs</a></li>
                  </ul>
