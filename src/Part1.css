@@ -9,6 +9,12 @@
 .Part1-title h2{
     margin: 0px;
 } 
+@media screen and (max-width: 500px){
+.part1-select-table{
+	margin-left:15%;
+	}
+	
+}
 .part1-select-table .btn{
  background-color: #48486e;
    font-family: Roboto Thin;
